@@ -21,6 +21,6 @@ I'm interested in understanding how things work beneath the surface, building so
 ### :footprints: My Digital Footprint
 <details>
 <p align="center">
-  <img src="./metrics.svg" width="50%" alt="Profile Metrics"/>
+  <img src="https://github.com/rainpaw/rainpaw/blob/main/metrics.svg" width="50%" alt="Profile Metrics"/>
 </p>
 </details>
