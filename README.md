@@ -1,4 +1,3 @@
-
 Hi :wave:, I'm **rainpaw** :paw_prints: - a developer .
 
 I'm interested in understanding how things work beneath the surface, building software with intention, and contributing to ideas that carry meaning beyond the code itself. I believe good engineering is not merely about solving problems, but about solving the right ones with clarity, discipline, and purpose.
