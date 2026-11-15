@@ -31,7 +31,7 @@ jobs:
           plugin_steam_achievements_limit: 0
 
           plugin_anilist: yes
-          plugin_anilist_user: YOUR_ANILIST_USERNAME
+          plugin_anilist_user: rainpaw
           plugin_anilist_medias: anime,manga
           plugin_anilist_sections: favorites,watching,reading,characters
           plugin_anilist_limit: 2
